@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Tarık TANRIVER</h1>
-<h3 align="center">Electric and Electronics Engineering student. Interests and professions: Cyber Security, Linux, Machine Learning.</h3>
+<h3 align="center">Electric and Electronics Engineer. Interests and professions: Cyber Security, Linux, Machine Learning.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanrivertarik](https://github.com/tanrivertarik)
 
