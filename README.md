@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Ahmet Tarık TANRIVER</h1>
 <h3 align="center">AI/ML Engineer | Specialized in Large Language Models (LLMs)</h3>
 
@@ -85,4 +85,4 @@
 ---
 
 📌 **Feel free to check out my repositories and collaborate on AI-driven projects!**
-```
+
